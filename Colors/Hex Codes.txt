@@ -1,3 +1,11 @@
 Red - #DC143C
 White - #FFFFFF
 Off White - #F4F4F4
+
+Colors used in server build:
+Black - #171717
+Grey - #444444
+Red - #DC143C
+White - #EDEDED
+Green - #28A745
+Blue - #2873A7
