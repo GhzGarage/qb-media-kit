@@ -1,0 +1,3 @@
+Red - #DC143C
+White - #FFFFFF
+Off White - #F4F4F4
